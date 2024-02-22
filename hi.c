@@ -1,5 +1,12 @@
 #include <stdio.h>
-int main (void) {
+
+/**
+ * main - Entry point
+ * Return: nothing
+ */
+
+int main(void)
+{
 	printf("Hi");
 	return (0);
 }
