@@ -8,5 +8,5 @@
 int main(void)
 {
 	printf("Welcome to the repo Papaya");
-	retunr (0);
+	return (0);
 }
