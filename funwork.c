@@ -8,5 +8,5 @@
 int main(void)
 {
 	printf("yay, you're learning and it's fun!");
-	retunr (0);
+	return (0);
 }
