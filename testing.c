@@ -8,5 +8,5 @@
 int main(void)
 {
 	printf("we're checking your understanding");
-	retunr (0);
+	return (0);
 }
